@@ -4,9 +4,6 @@
   "private": true,
   "homepage": "https://pdftron.github.io/webviewer-react-sample",
   "dependencies": {
-    "@emotion/react": "^11.11.1",
-    "@emotion/styled": "^11.11.0",
-    "@mui/material": "^5.13.5",
     "@pdftron/webviewer": "^10.0.0",
     "@pdftron/webviewer-reading-mode": "^1.0.6",
     "file-saver": "^2.0.5",
